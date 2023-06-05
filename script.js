@@ -35,5 +35,5 @@
 			var conteudo = document.querySelector('#t2');
 			conteudo.select();
 			document.execCommand("copy");
-			alert("copiado para area de transferência");
+			alert("copied to clipboard");
 		}
